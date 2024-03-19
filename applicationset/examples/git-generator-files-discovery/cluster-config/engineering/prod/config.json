@@ -3,7 +3,7 @@
   "asset_id": "11223344",
   "cluster": {
     "owner": "cluster-admin@company.com",
-    "name": "engineering-prod",
-    "address": "http://1.2.3.4"
+    "name": "file-based-gitgenerator-prod",
+    "address": "https://172.18.0.5:31736"
   }
 }
